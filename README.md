@@ -301,8 +301,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Team
 
-**Project Lead**: [Your Name]
-**Contact**: [Your Email]
+**Project Lead**: Happy Igho Umukoro
+**Contact**: princeigho74@gmail.com 
 **Hackathon**: AI in Financial Sector - Ethical & Responsible AI
 
 ---
